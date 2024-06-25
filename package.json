@@ -1,7 +1,7 @@
 {
   "name": "react_project",
   "version": "0.1.0",
-  "homepage": "https://mirzuKHAN.github.io/colorbox",
+  "homepage": "https://mirzuKHAN.github.io/react-deploy-netlify",
   "private": true,
   "dependencies": {
     "colornames": "^1.1.1",
